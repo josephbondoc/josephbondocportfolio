@@ -1,0 +1,16 @@
+/* to fit mobile */
+
+@media only screen and (max-width: 700px){
+
+    .header-content {
+        
+
+    }
+
+    .redirect-buts {
+        display: flex;
+        flex-direction: column;
+
+        
+    }
+}
